@@ -1,0 +1,55 @@
+
+.titlename{
+font-family: 'Cormorant Garamond', ;
+font-size: 100pt;
+line-height: 50%;
+letter-spacing: 10pt;
+
+}
+
+.green{
+  position: absolute;
+width: 640px;
+height: 2197px;
+left: 720px;
+top: -20px;
+
+background: #88DB00;
+}
+
+.blue{
+  position: absolute;
+width: 720px;
+height: 566px;
+left: 0px;
+top: 497px;
+
+background: #6AD2FF;
+}
+
+.pink{
+  position: absolute;
+width: 720px;
+height: 1000px;
+left: 0px;
+top: 1177px;
+
+background: #F12FA4;
+}
+
+.currentprojects{
+position: absolute;
+width: 578px;
+height: 247px;
+left: 121px;
+top: 538px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 86px;
+text-align: right;
+
+color: #FFFFFF;
+}
