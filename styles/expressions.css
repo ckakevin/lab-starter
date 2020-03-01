@@ -1,360 +1,9 @@
-/* 青い空 青い海 島の歌 青い空 青い海 南の島の歌 白い花が咲く頃 娘は生まれ もらった 花の名前を 娘はもらった 青い空 青い海 島の歌 青い空 青い海 南の島の歌 白い花が咲く頃 娘は生まれ もらった 花の名前を 娘はもらった 花の名前を 娘はもらった 青い空 青い海 島の歌 赤い花が咲く頃 */
-
-
-position: absolute;
-width: 448px;
-height: 1115px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 36px;
-line-height: 42px;
-
-color: #000000;
-
-
-
-/* lily chou chou field sitting 1 */
-
-
-position: absolute;
-width: 1440px;
-height: 817px;
-left: 0px;
-top: 891px;
-
-background: url(lily chou chou field sitting.jpg);
-
-
-/* Arabesque */
-
-
-position: absolute;
-width: 888px;
-height: 277px;
-left: 215px;
-top: 1786px;
-
-font-family: Times New Roman;
-font-style: italic;
-font-weight: normal;
-font-size: 144px;
-line-height: 166px;
-
-color: #000000;
-
-
-
-/* アラベスク */
-
-
-position: absolute;
-width: 843px;
-height: 201px;
-left: -44px;
-top: 1744px;
-
-font-family: NanumGothic;
-font-style: normal;
-font-weight: normal;
-font-size: 144px;
-line-height: 144px;
-text-align: center;
-
-color: rgba(242, 116, 0, 0.5);
-
-
-
-/* lily in the fields 1 */
-
-
-position: absolute;
-width: 720px;
-height: 469px;
-left: 720px;
-top: 2080px;
-
-background: url(lily in the fields.jpg);
-
-
-/* blue sky blue sea birdsong blue sky blue sea birdsong of the south */
-
-
-position: absolute;
-width: 577px;
-height: 774px;
-left: 67px;
-top: 2080px;
-
-font-family: Rosarivo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-
-color: #000000;
-
-
-
-/* 青い空 青い海 島の歌 青い空 青い海 南の島の歌 */
-
-
-position: absolute;
-width: 466px;
-height: 367px;
-left: 925px;
-top: 2596px;
-
-font-family: Rosarivo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-text-align: right;
-
-color: #000000;
-
-
-
-/* yuichi listening to lily 1 */
-
-
-position: absolute;
-width: 1440px;
-height: 823px;
-left: 0px;
-top: 2983px;
-
-background: url(lily in the sky.png);
-
-
-/* 白い花が咲く頃 娘は生まれ もらった */
-
-
-position: absolute;
-width: 518px;
-height: 202px;
-left: 67px;
-top: 3045px;
-
-font-family: Rosarivo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-
-color: #FFFFFF;
-
-
-
-/* when the white flowers blossomed a girl was born the girl was named after the flower */
-
-
-position: absolute;
-width: 848px;
-height: 344px;
-left: 559px;
-top: 3489px;
-
-font-family: Rosarivo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-text-align: right;
-
-color: #FFFFFF;
-
-
-
-/* Rectangle 1 */
-
-
-position: absolute;
-width: 425px;
-height: 531px;
-left: 977px;
-top: 1034px;
-
-background: rgba(209, 151, 2, 0.5);
-
-
-/* Rectangle 2 */
-
-
-position: absolute;
-width: 1440px;
-height: 891px;
-left: 0px;
-top: 3806px;
-
-background: #000000;
-
-
-/* lily in the river 1 */
-
-
-position: absolute;
-width: 1440px;
-height: 804px;
-left: 0px;
-top: 4697px;
-
-background: url(lily in the river.png);
-
-
-/* For kids around the world, music is often the only salvation when the pain and anxiety of teenage life becomes too much to bear. Yuichi (Hayato Ichihara) is in the 8th grade and he worships Lily Chou-Chou, a Bjork-like chanteuse whose epic music is lush and transcendent. Yuichi only lives for Lily Chou-Chou's big Tokyo concert, where the lies and violence can be washed away by the presence of his goddess and her powerful music. But fate has yet another obstacle in store for Lily's devoted fan. */
-
-
-position: absolute;
-width: 383px;
-height: 690px;
-left: 988px;
-top: 955px;
-
-font-family: Rosarivo;
-font-style: italic;
-font-weight: normal;
-font-size: 24px;
-line-height: 34px;
-display: flex;
-align-items: center;
-text-align: right;
-font-feature-settings: 'pnum' on, 'onum' on;
-
-color: #FFFFFF;
-
-
-
-/* ether lily 1 */
-
-
-position: absolute;
-width: 1440px;
-height: 738px;
-left: 0px;
-top: 5501px;
-
-background: url(ether lily.jpg);
-
-
-/* lily train 1 */
-
-
-position: absolute;
-width: 872px;
-height: 497px;
-left: 0px;
-top: 3982px;
-
-background: url(lily train.jpg);
-
-
-/* Rectangle 3 */
-
-
-position: absolute;
-width: 1440px;
-height: 2779px;
-left: 0px;
-top: 6239px;
-
-background: #0F0F0F;
-
-
-/* lily hidden in the grass 1 */
-
-
-position: absolute;
-width: 601px;
-height: 601px;
-left: 420px;
-top: 8202px;
-
-background: url(lily hidden in the grass.jpg);
-
-
-/* The End. */
-
-
-position: absolute;
-width: 398px;
-height: 121px;
-left: 518px;
-top: 8850px;
-
-font-family: Rosarivo;
-font-style: italic;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-display: flex;
-align-items: center;
-text-align: center;
-font-feature-settings: 'pnum' on, 'onum' on;
-
-color: #FFFFFF;
-
-
-
-/* all of lily 1 */
-
-
-position: absolute;
-width: 1280px;
-height: 720px;
-left: 80px;
-top: 6264px;
-
-background: url(all of lily.jpg);
-
-
-/* blue sky blue sea birdsong blue sky blue sea birdsong of the south */
-
-
-position: absolute;
-width: 577px;
-height: 774px;
-left: 38px;
-top: 3833px;
-
-font-family: Rosarivo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-
-color: #FFFFFF;
-
-
-
-/* 青い空 青い海 島の歌 青い空 青い海 南の島の歌 */
-
-
-position: absolute;
-width: 466px;
-height: 367px;
-left: 917px;
-top: 4302px;
-
-font-family: Rosarivo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 67px;
-text-align: right;
-
-color: #FFFFFF;
-
-
 
 /* lilychouchou screensaver 1 */
 body{
+  max-width: 80%;
+  margin: 0 auto;
   position: relative;
-width: 1440px;
-height: 9018px;
-
 background: #FFFFFF;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -406,4 +55,333 @@ line-height: 112px;
 text-align: right;
 
 color: #FF9900;
+}
+
+/* For kids around the world, music is often the only salvation when the pain and anxiety of teenage life becomes too much to bear. Yuichi (Hayato Ichihara) is in the 8th grade and he worships Lily Chou-Chou, a Bjork-like chanteuse whose epic music is lush and transcendent. Yuichi only lives for Lily Chou-Chou's big Tokyo concert, where the lies and violence can be washed away by the presence of his goddess and her powerful music. But fate has yet another obstacle in store for Lily's devoted fan. */
+
+.infographic{
+position: absolute;
+width: 383px;
+height: 690px;
+left: 988px;
+top: 955px;
+
+font-family: Rosarivo;
+font-style: italic;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+display: flex;
+align-items: center;
+text-align: right;
+
+color: black;
+}
+
+/* lily chou chou field sitting 1 */
+
+.secondslide{
+position: absolute;
+width: 1440px;
+height: 817px;
+left: 0px;
+top: 891px;
+
+background: url(lily chou chou field sitting.jpg);
+}
+
+/* Rectangle 1 */
+.shaderectangle {
+position: absolute;
+width: 425px;
+height: 531px;
+left: 977px;
+top: 1034px;
+
+background: rgba(209, 151, 2, 0.5);
+}
+
+/* アラベスク */
+
+.arabesquejap{
+position: absolute;
+width: 843px;
+height: 201px;
+left: -44px;
+top: 1744px;
+
+font-family: NanumGothic;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 144px;
+text-align: center;
+
+color: rgba(242, 116, 0, 0.5);
+}
+
+
+
+/* Arabesque */
+
+.arabesqueeng{
+position: absolute;
+width: 888px;
+height: 277px;
+left: 215px;
+top: 1786px;
+
+font-family: Times New Roman;
+font-style: italic;
+font-weight: normal;
+font-size: 144px;
+line-height: 166px;
+
+color: #000000;
+}
+
+
+/* blue sky blue sea birdsong blue sky blue sea birdsong of the south */
+
+.firstverseeng{
+position: absolute;
+width: 577px;
+height: 774px;
+left: 67px;
+top: 2080px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+
+color: #000000;
+}
+
+/* lily in the fields 1 */
+
+.lilyfield{
+position: absolute;
+width: 720px;
+height: 469px;
+left: 720px;
+top: 2080px;
+
+background: url(lily in the fields.jpg);
+
+}
+
+/* 青い空 青い海 島の歌 青い空 青い海 南の島の歌 */
+
+.firstversejap{
+position: absolute;
+width: 466px;
+height: 367px;
+left: 925px;
+top: 2596px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+text-align: right;
+
+color: #000000;
+}
+
+/* yuichi listening to lily 1 */
+
+.sky{
+position: absolute;
+width: 1440px;
+height: 823px;
+left: 0px;
+top: 2983px;
+
+background: url(lily in the sky.png);
+}
+
+/* 白い花が咲く頃 娘は生まれ もらった */
+
+.secondversejap{
+position: absolute;
+width: 518px;
+height: 202px;
+left: 67px;
+top: 3045px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+
+color: black;
+}
+
+
+/* when the white flowers blossomed a girl was born the girl was named after the flower */
+
+.secondverseeng{
+position: absolute;
+width: 848px;
+height: 344px;
+left: 559px;
+top: 3489px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+text-align: right;
+
+color: black;
+}
+
+/* Rectangle 2 */
+
+.blackground{
+position: absolute;
+width: 1440px;
+height: 891px;
+left: 0px;
+top: 3806px;
+
+background: #000000;
+}
+
+/* lily train 1 */
+
+.train{
+position: absolute;
+width: 872px;
+height: 497px;
+left: 0px;
+top: 3982px;
+
+background: url(lily train.jpg);
+}
+
+/* blue sky blue sea birdsong blue sky blue sea birdsong of the south */
+
+.thirdverseeng{
+position: absolute;
+width: 577px;
+height: 774px;
+left: 38px;
+top: 3833px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+
+color: #FFFFFF;
+}
+
+
+/* 青い空 青い海 島の歌 青い空 青い海 南の島の歌 */
+
+.thirdversejap{
+position: absolute;
+width: 466px;
+height: 367px;
+left: 917px;
+top: 4302px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+text-align: right;
+
+color: #FFFFFF;
+}
+
+/* lily in the river 1 */
+
+.river{
+position: absolute;
+width: 1440px;
+height: 804px;
+left: 0px;
+top: 4697px;
+
+background: url(lily in the river.png);
+}
+
+/* ether lily 1 */
+
+.ether{
+position: absolute;
+width: 1440px;
+height: 738px;
+left: 0px;
+top: 5501px;
+
+background: url(ether lily.jpg);
+}
+
+/* Rectangle 3 */
+
+.blackend{
+position: absolute;
+width: 1440px;
+height: 2779px;
+left: 0px;
+top: 6239px;
+
+background: #0F0F0F;
+}
+
+/* lily hidden in the grass 1 */
+
+.hiddengrass{
+position: absolute;
+width: 601px;
+height: 601px;
+left: 420px;
+top: 8202px;
+
+background: url(lily hidden in the grass.jpg);
+}
+
+/* The End. */
+
+.end{
+position: absolute;
+width: 398px;
+height: 121px;
+left: 518px;
+top: 8850px;
+
+font-family: Rosarivo;
+font-style: italic;
+font-weight: normal;
+font-size: 48px;
+line-height: 67px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'pnum' on, 'onum' on;
+
+color: black;
+
+}
+
+/* all of lily 1 */
+
+.all{
+position: absolute;
+width: 1280px;
+height: 720px;
+left: 80px;
+top: 6264px;
+
+background: url(all of lily.jpg);
 }
